@@ -12,7 +12,7 @@ import Lenis from 'lenis';
    ===================================================================== */
 const MODEL_NAME = 'gmt.studio';
 const DESIGNER = 'gmt.studio';
-const GLB_URL = 'assets/occhiali.glb';
+const GLB_URL = 'gianmarcotito.glb';
 const MEDIAPIPE_WASM = 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@1.2.3/wasm';
 const FACE_MODEL = 'https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task';
 
